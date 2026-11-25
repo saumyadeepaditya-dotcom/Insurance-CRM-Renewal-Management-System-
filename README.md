@@ -67,3 +67,4 @@ This is an independent portfolio case study inspired by insurance-domain experie
 ## Project Files
 - [View Project Report (PDF)](https://github.com/saumyadeepaditya-dotcom/Insurance-CRM-Renewal-Management-System-/blob/main/Insurance_CRM_Renewal_Project.pdf)
 - [Download Power BI Dashboard (.pbix)](https://github.com/saumyadeepaditya-dotcom/Insurance-CRM-Renewal-Management-System-/blob/main/CRM%20supported-Insurance%20Renewal%20Management%20Project.pbix)
+- [View Dashboard – Renewal Management Overview](https://github.com/saumyadeepaditya-dotcom/Insurance-CRM-Renewal-Management-System-/blob/main/Renewal_Management_Overview.png)
