@@ -63,3 +63,6 @@ The Power BI dashboard is a reporting prototype built using synthetic data. The 
 ## Disclaimer
 
 This is an independent portfolio case study inspired by insurance-domain experience. It does not represent a deployed CRM solution or proprietary company documentation.
+
+## Project Files
+- [View Project Report (PDF)](https://github.com/saumyadeepaditya-dotcom/Insurance-CRM-Renewal-Management-System-/blob/main/Insurance_CRM_Renewal_Project.pdf)
