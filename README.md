@@ -28,7 +28,7 @@ Business Analyst – Independent Portfolio Project
 - SQL Server
 - Draw.io
 
-- ## Key Deliverables
+## Key Deliverables
 - Business Requirements Document
 - Business and Functional Requirements
 - As-Is and To-Be Process Diagrams
